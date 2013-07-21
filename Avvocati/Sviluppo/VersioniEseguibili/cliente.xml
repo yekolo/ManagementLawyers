@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generale>
+   <cliente type="privato">
+      <id value="1" />
+      <nome value="Antonio" />
+      <numTel value="Incendio doloso" />
+      <recapito value="Via mazzine 28" />
+      <reato value="Incendio doloso" />
+      <cellulare value="3473027849" />
+      <cognome value="Rossi" />
+      <codFisc value="123456789" />
+      <luogoNascita value="Potenza" />
+      <provNascita value="PZ" />
+      <dataNascita value="01/01/54" />
+   </cliente>
+   <cliente type="ente">
+      <id value="2" />
+      <nome value="FIAT" />
+      <numTel value="Associazione per delinquere" />
+      <recapito value="Via dello sbaraglio 33" />
+      <reato value="Associazione per delinquere" />
+      <cellulare value="3475879854" />
+      <partIva value="ABCDE1234" />
+   </cliente>
+   <cliente type="ente">
+      <id value="3" />
+      <nome value="Lancia" />
+      <numTel value="Truffa" />
+      <recapito value="Via vaccaro 24" />
+      <reato value="Truffa" />
+      <cellulare value="3496182036" />
+      <partIva value="KOLPF8974" />
+   </cliente>
+   <cliente type="ente">
+      <id value="4" />
+      <nome value="blatta" />
+      <numTel value="" />
+      <recapito value="" />
+      <reato value="" />
+      <cellulare value="4545" />
+      <partIva value="12345678912" />
+   </cliente>
+</generale>
+

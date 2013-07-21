@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generale>
+   <fascicolo>
+      <id value="1" />
+      <externId value="1" />
+      <notizieReato value="Comunicazione discarica sindaco" />
+      <rgnr value="n. 1670/09" />
+      <rggip value="n. 74678/02" />
+      <numeroSentenza value="n. 238" />
+      <autoritaGiudiziaria value="Giudice udienza preliminare " />
+   </fascicolo>
+   <fascicolo>
+      <id value="2" />
+      <externId value="1" />
+      <notizieReato value="Comunicazione reato discarica" />
+      <rgnr value="n. 1689/11" />
+      <rggip value="n. 85978/03" />
+      <numeroSentenza value="n. 429" />
+      <autoritaGiudiziaria value="Tribunale collegiale " />
+   </fascicolo>
+   <fascicolo>
+      <id value="3" />
+      <externId value="2" />
+      <notizieReato value="Identificazione elezione domicilio sequestro" />
+      <rgnr value="n. 2568/08" />
+      <rggip value="n. 93256/03" />
+      <numeroSentenza value="n. 457" />
+      <autoritaGiudiziaria value="Tribunale monocratico " />
+   </fascicolo>
+   <fascicolo>
+      <id value="4" />
+      <externId value="2" />
+      <notizieReato value="Scheda identificazione animali posti sotto sequestro" />
+      <rgnr value="n. 4569/07" />
+      <rggip value="n. 11111/04" />
+      <numeroSentenza value="n. 999" />
+      <autoritaGiudiziaria value="Corte d'appello" />
+   </fascicolo>
+   <fascicolo>
+      <id value="5" />
+      <externId value="2" />
+      <notizieReato value="Verbale di accertamenti e rilievi urgenti " />
+      <rgnr value="n. 8962/06" />
+      <rggip value="n. 22222/05" />
+      <numeroSentenza value="n. 789" />
+      <autoritaGiudiziaria value="Corte di cassazione" />
+   </fascicolo>
+   <fascicolo>
+      <id value="6" />
+      <externId value="3" />
+      <notizieReato value="Verbale di accompagnamento" />
+      <rgnr value="n. 45620/07" />
+      <rggip value="n. 3333/01" />
+      <numeroSentenza value="n. 589" />
+      <autoritaGiudiziaria value="Giudice di pace " />
+   </fascicolo>
+   <fascicolo>
+      <id value="7" />
+      <externId value="3" />
+      <notizieReato value="Verbale di distruzione corpi di reato " />
+      <rgnr value="n. 7845/09" />
+      <rggip value="n. 4444/02" />
+      <numeroSentenza value="n. 108" />
+      <autoritaGiudiziaria value="Giudice udienza preliminare " />
+   </fascicolo>
+   <fascicolo>
+      <id value="8" />
+      <externId value="3" />
+      <notizieReato value="Verbale di perquisizione" />
+      <rgnr value="n. 4519/11" />
+      <rggip value="n. 55555/03" />
+      <numeroSentenza value="n. 685" />
+      <autoritaGiudiziaria value="Tribunale collegiale " />
+   </fascicolo>
+   <fascicolo>
+      <id value="9" />
+      <externId value="3" />
+      <notizieReato value="Verbale di rilievi fotografici" />
+      <rgnr value="n. 4536/10" />
+      <rggip value="n. 77777/04" />
+      <numeroSentenza value="n. 525" />
+      <autoritaGiudiziaria value="Tribunale monocratico " />
+   </fascicolo>
+   <fascicolo>
+      <id value="10" />
+      <externId value="4" />
+      <notizieReato value="faf" />
+      <rgnr value="faafd" />
+      <rggip value="affaf" />
+      <numeroSentenza value="23" />
+      <autoritaGiudiziaria value="Giudice udienza preliminare" />
+   </fascicolo>
+</generale>
+
